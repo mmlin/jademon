@@ -1,0 +1,9 @@
+{
+    "name": "jademon",
+    "version": "0.0.1",
+    "description": "Monitors for changes to Jade templates in a directory and its subdirectories. If it finds any, then it compiles them.",
+    "preferGlobal": "true",
+    "bin": { "jademon": "jademon.js" },
+    "author": "Mike M. Lin",
+    "engines": { "node": "*" }
+}
